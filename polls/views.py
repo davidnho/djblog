@@ -1,3 +1,4 @@
+
 from django.http import HttpResponse
 
 def index(request):
@@ -5,3 +6,4 @@ def index(request):
 
 def test():
     return HttpResponse("Testing")
+
