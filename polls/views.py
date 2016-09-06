@@ -1,5 +1,5 @@
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("Hello Noel David")
+    return HttpResponse("Hello Noel S. David")
     
